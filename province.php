@@ -17,7 +17,7 @@
  
   foreach($data as $key=>$val){
     echo "<tr align='center'>";
-    echo "<td bgcolor='#F7E3EE'>";
+    echo "<td bgcolor='#E9CCCE'>";
     echo ($key+1);
     echo "</td>";
     
