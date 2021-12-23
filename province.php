@@ -21,7 +21,7 @@
     echo ($key+1);
     echo "</td>";
     
-    echo "<td bgcolor='#BFD6F5'>";
+    echo "<td bgcolor='#F4FAFB'>";
     echo $val->province;
     echo "</td>";
     
