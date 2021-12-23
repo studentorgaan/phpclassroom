@@ -7,10 +7,10 @@
   echo "<center><table border='1'>";
   echo "<tr align='center'>
         <td bgcolor='#957DAD'><b>ลำดับ</b></td>
-        <td bgcolor='#A7BED3'><b>จังหวัด</b></td>
-        <td bgcolor='#4682B4'><b>ผู้ป่วยใหม่</b></td>
+        <td bgcolor='#4682B4'><b>จังหวัด</b></td>
+        <td bgcolor='#A7BED3'><b>ผู้ป่วยใหม่</b></td>
         <td bgcolor='#218B81'><b>ผู้ป่วยรวม</b></td>
-        <td bgcolor='#FFF5BA'><b>ผู้ป่วยในประเทศ</b></td>
+        <td bgcolor='#FFDAC1'><b>ผู้ป่วยในประเทศ</b></td>
         <td bgcolor='#F1C740'><b>ผู้ป่วยรวมในประเทศ</b></td>
         <td bgcolor='#E05656'><b>ผู้เสียชีวิตใหม่</b></td>
         <td bgcolor='#DAB894'><b>ผู้เสียชีวิตรวม</b></td></font></tr>";
