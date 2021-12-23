@@ -17,11 +17,11 @@
  
   foreach($data as $key=>$val){
     echo "<tr align='center'>";
-    echo "<td bgcolor='#D4C6F5'>";
+    echo "<td bgcolor='#F7E3EE'>";
     echo ($key+1);
     echo "</td>";
     
-    echo "<td bgcolor='#F4FAFB'>";
+    echo "<td bgcolor='#D8F0FA'>";
     echo $val->province;
     echo "</td>";
     
