@@ -6,7 +6,7 @@
   echo "<br><h2><center><b>รายงานสถานการณ์ COVID-19 ประจำวัน แยกตามรายจังหวัด</b></center></h2><br>";
   echo "<center><table border='1'>";
   echo "<tr align='center'>
-        <td bgcolor='#413C69'><b>ลำดับ</b></td>
+        <td bgcolor='#957DAD'><b>ลำดับ</b></td>
         <td bgcolor='#82B2B7'><b>จังหวัด</b></td>
         <td bgcolor='#4682B4'><b>ผู้ป่วยใหม่</b></td>
         <td bgcolor='#218B81'><b>ผู้ป่วยรวม</b></td>
