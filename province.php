@@ -12,7 +12,7 @@
         <td bgcolor='#A9D3C9'><b>ผู้ป่วยรวม</b></td>
         <td bgcolor='#FFC89E'><b>ผู้ป่วยในประเทศ</b></td>
         <td bgcolor='#F7E6AB'><b>ผู้ป่วยรวมในประเทศ</b></td>
-        <td bgcolor='#E05656'><b>ผู้เสียชีวิตใหม่</b></td>
+        <td bgcolor='#FEB7B3'><b>ผู้เสียชีวิตใหม่</b></td>
         <td bgcolor='#DAB894'><b>ผู้เสียชีวิตรวม</b></td></font></tr>";
  
   foreach($data as $key=>$val){
